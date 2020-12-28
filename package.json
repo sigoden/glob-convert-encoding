@@ -1,6 +1,6 @@
 {
   "name": "glob-convert-encoding",
-  "description": "convert encoding of files that match glob",
+  "description": "Convert encoding of files that match glob",
   "bin": "./index.js",
   "dependencies": {
     "glob": "^7.1.6",
